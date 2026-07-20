@@ -1,3 +1,5 @@
+**🇵🇱 Polski** | [🇬🇧 English](README.en.md)
+
 # Cześć, jestem Adrian!
 
 Jestem **Full-stack Developerem** ze specjalizacją w backendzie. Na co dzień zajmuję się budowaniem systemów w sektorze **Fintech**, gdzie kluczowa jest precyzja, bezpieczeństwo danych i wysoka wydajność kodu.
